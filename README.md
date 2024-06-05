@@ -2,7 +2,7 @@
 
 <h4>Computer engineering student at Inonu University</h4>
 
-<a href="https://tr.linkedin.com/in/furkanakyel" target=_blank">
+<a href="https://tr.linkedin.com/in/furkanakyel" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
